@@ -129,8 +129,8 @@ wrong numbers.
 
 ## Video walkthrough
 
-Record up to 5 minutes of screen share, in one take, and send us a link. It does not count
-toward the 2 hours. Cover:
+Record up to 5 minutes of screen share and send us a link. One take is fine, and it does
+not count toward the 2 hours. Cover:
 
 - How you implemented it: a quick demo, then the code path from the dates to the numbers.
 - How you work: the editor, AI tools, and other tools you used, and how you used them.
