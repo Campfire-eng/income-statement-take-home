@@ -121,10 +121,27 @@ Send us a link to a Git repository (or a zip) that contains:
    - What you would do next with more time.
 3. Your code and tests. Commit as you go. We would rather see real history than one
    squashed commit.
+4. **A short video**, 5 minutes at most. See [Video walkthrough](#video-walkthrough).
 
 If you hit the 2 hours with something unfinished, stop and write down what is left in
 `NOTES.md`. A correct statement with a plain page is better than an elaborate page with
 wrong numbers.
+
+## Video walkthrough
+
+Record a screen share of up to 5 minutes that explains how you implemented the exercise.
+Any tool is fine, such as Loom, QuickTime, or Zoom. Send us a link that anyone with the link
+can open. The recording does not count toward the 2 hours.
+
+Cover:
+
+- A quick demo: the Q1 2026 statement, and one other date range.
+- How a request goes from the dates to the numbers on the page, with the code on screen.
+- How you handled money amounts and entry statuses.
+- The one decision about the data you would most want us to know about.
+
+Talk to us the way you would talk to a teammate. One take is fine. We care about how
+clearly you explain the code, not about editing or polish.
 
 ## What we look at
 
