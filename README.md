@@ -129,19 +129,11 @@ wrong numbers.
 
 ## Video walkthrough
 
-Record a screen share of up to 5 minutes that explains how you implemented the exercise.
-Any tool is fine, such as Loom, QuickTime, or Zoom. Send us a link that anyone with the link
-can open. The recording does not count toward the 2 hours.
+Record up to 5 minutes of screen share, in one take, and send us a link. It does not count
+toward the 2 hours. Cover:
 
-Cover:
-
-- A quick demo: the Q1 2026 statement, and one other date range.
-- How a request goes from the dates to the numbers on the page, with the code on screen.
-- How you handled money amounts and entry statuses.
-- The one decision about the data you would most want us to know about.
-
-Talk to us the way you would talk to a teammate. One take is fine. We care about how
-clearly you explain the code, not about editing or polish.
+- How you implemented it: a quick demo, then the code path from the dates to the numbers.
+- How you work: the editor, AI tools, and other tools you used, and how you used them.
 
 ## What we look at
 
