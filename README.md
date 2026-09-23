@@ -65,6 +65,9 @@ Here is what you need.
 - **A period, not a point in time.** An income statement covers the activity between two
   dates. A balance sheet shows balances as of one date. You are building the first one.
 
+For a one-line definition of any other term, see the
+[accounting primer](ACCOUNTING_PRIMER.md).
+
 Everything else is in the data dictionary below. If something is ambiguous, make a
 decision, write it down in `NOTES.md`, and move on. That is what we would do at work.
 
