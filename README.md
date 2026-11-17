@@ -99,7 +99,7 @@ decision, write it down in `NOTES.md`, and move on. That is what we would do at 
 | `id` | Entry id |
 | `date` | Accounting date of the entry. There is no time or time zone |
 | `status` | `posted` is in the books. `draft` is waiting for approval. `void` was cancelled |
-| `memo` | Free text 
+| `memo` | Free text |
 | `lines[].account` | Account number |
 | `lines[].debit`, `lines[].credit` | Decimal strings. One of the two is `"0.00"` on each line |
 
